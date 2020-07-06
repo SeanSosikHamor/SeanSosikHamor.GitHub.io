@@ -7,8 +7,11 @@ Wearing multiple hats, Sean is just as comfortable installing and configuring da
 
 ### Social Media Profiles
 
-- [Sean Sosik-Hamor on GitHub](https://github.com/SeanSosikHamor/)
 - [Sean Sosik-Hamor on LinkedIn](https://www.linkedin.com/in/sosikhamor/)
+
+### Project Profiles
+
+- [Sean Sosik-Hamor on GitHub](https://github.com/SeanSosikHamor/)
 
 ### Web Projects
 
