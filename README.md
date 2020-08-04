@@ -26,3 +26,7 @@ Wearing multiple hats, Sean is just as comfortable installing and configuring da
 ### Lab Projects
 - [Sosik-Hamor Family](https://sosik-hamor.com/) — Sean's Lab for learning [cPanel](https://www.cpanel.net/) and [SilverStripe CMS](https://www.silverstripe.org/) on [Namecheap](https://www.namecheap.com/).
 - [Sosik-Hamor Networks](https://shn.nu/) — Sean's Lab for learning [Next.js](https://nextjs.org/) and [JAMstack](https://jamstack.org/) on [Netlify](https://www.netlify.com/).
+
+### Miscellaneous Profiles
+- [Sean on Linktree](https://linktr.ee/seansosikhamor)
+- [Sean on AllMyLinks](https://allmylinks.com/seansosikhamor)
