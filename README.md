@@ -24,6 +24,7 @@ Wearing multiple hats, Sean is just as comfortable installing and configuring da
 - [Hamor Hollow Hedgehogs](https://www.hamorhollow.com/) — USDA-Licensed Breeder and Rescue — Conveniently Located in Central New England!
 
 ### Lab Projects
+- [The Litterbox](https://litterbox.org/) — Sean's Lab for learning [Jekyll](https://jekyllrb.com/) and [Minima](https://github.com/jekyll/minima) on [Netlify](https://www.netlify.com/).
 - [Sosik-Hamor Family](https://sosik-hamor.com/) — Sean's Lab for learning [cPanel](https://www.cpanel.net/) and [SilverStripe CMS](https://www.silverstripe.org/) on [Namecheap](https://www.namecheap.com/).
 - [Sosik-Hamor Networks](https://shn.nu/) — Sean's Lab for learning [Next.js](https://nextjs.org/) and [Jamstack](https://jamstack.org/) on [Netlify](https://www.netlify.com/).
 
