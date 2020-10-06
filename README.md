@@ -21,13 +21,15 @@ Wearing multiple hats, Sean is just as comfortable installing and configuring da
 
 ### Web Projects
 - [Hamor Photography](https://www.hamor.com/) — [Sean Sosik-Hamor](https://www.hamor.com/) is a lifestyle, event, and urban street photographer covering the Greater Boston and Southern New Hampshire areas.
-- [Hamor Hollow Hedgehogs](https://www.hamorhollow.com/) — USDA-Licensed Breeder and Rescue — Conveniently Located in Central New England!
+- [Hamor Hollow Hedgehogs](https://www.hamorhollow.com/) — [USDA-Licensed Breeder and Rescue — Conveniently Located in Central New England!](https://www.hamorhollow.com/)
+- [Inert Ramblings](https://www.inertramblings.com/) — Everything worth saying has already been said.
+- [Trunkmonkey Racing](https://www.trunkmonkeyracing.com/) — [Trunkmonkey Training Headquarters](https://www.trunkmonkeyracing.com/)
 
-### Lab Projects
-- [The Litterbox](https://litterbox.org/) — Sean's Lab for learning [Jekyll](https://jekyllrb.com/) and [Minima](https://github.com/jekyll/minima) on [Netlify](https://www.netlify.com/).
-- [Sosik-Hamor Family](https://sosik-hamor.com/) — Sean's Lab for learning [cPanel](https://www.cpanel.net/) and [SilverStripe CMS](https://www.silverstripe.org/) on [Namecheap](https://www.namecheap.com/).
-- [Sosik-Hamor Networks](https://shn.nu/) — Sean's Lab for learning [Hugo](https://gohugo.io/) and [Jamstack](https://jamstack.org/) on [Netlify](https://www.netlify.com/).
-- [Sosik-Hamor Networks Next.js Lab](https://nextjs.shn.nu/) — Sean's Lab for learning [Next.js](https://nextjs.org/) and [Jamstack](https://jamstack.org/) on [Netlify](https://www.netlify.com/).
+### Sean's Lab Projects
+- [The Litterbox](https://litterbox.org/) — [Jekyll](https://jekyllrb.com/) and [Minima](https://github.com/jekyll/minima) on [Netlify](https://www.netlify.com/).
+- [Sosik-Hamor Family](https://sosik-hamor.com/) — [cPanel](https://www.cpanel.net/) and [SilverStripe CMS](https://www.silverstripe.org/) on [Namecheap](https://www.namecheap.com/).
+- [Sosik-Hamor Networks](https://shn.nu/) — [Hugo](https://gohugo.io/) and [Jamstack](https://jamstack.org/) with [Airspace Hugo](https://github.com/themefisher/airspace-hugo) theme and [Forestry CMS](https://forestry.io/) on [Netlify](https://www.netlify.com/).
+- [Sosik-Hamor Networks Next.js Lab](https://nextjs.shn.nu/) — [Next.js](https://nextjs.org/) and [Jamstack](https://jamstack.org/) on [Netlify](https://www.netlify.com/).
 
 ### Miscellaneous Profiles
 - [Sean on Linktree](https://linktr.ee/seansosikhamor)
