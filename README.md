@@ -26,7 +26,8 @@ Wearing multiple hats, Sean is just as comfortable installing and configuring da
 ### Lab Projects
 - [The Litterbox](https://litterbox.org/) — Sean's Lab for learning [Jekyll](https://jekyllrb.com/) and [Minima](https://github.com/jekyll/minima) on [Netlify](https://www.netlify.com/).
 - [Sosik-Hamor Family](https://sosik-hamor.com/) — Sean's Lab for learning [cPanel](https://www.cpanel.net/) and [SilverStripe CMS](https://www.silverstripe.org/) on [Namecheap](https://www.namecheap.com/).
-- [Sosik-Hamor Networks](https://shn.nu/) — Sean's Lab for learning [Next.js](https://nextjs.org/) and [Jamstack](https://jamstack.org/) on [Netlify](https://www.netlify.com/).
+- [Sosik-Hamor Networks](https://shn.nu/) — Sean's Lab for learning [Hugo](https://gohugo.io/) and [Jamstack](https://jamstack.org/) on [Netlify](https://www.netlify.com/).
+- [Sosik-Hamor Networks Next.js Lab](https://nextjs.shn.nu/) — Sean's Lab for learning [Next.js](https://nextjs.org/) and [Jamstack](https://jamstack.org/) on [Netlify](https://www.netlify.com/).
 
 ### Miscellaneous Profiles
 - [Sean on Linktree](https://linktr.ee/seansosikhamor)
